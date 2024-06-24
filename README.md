@@ -6,12 +6,12 @@ Backend Developer working with **Java** ☕ and **C# .NET** 🪒 from **Czech Re
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal website Badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/marek-mayuna-lof/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
 <a href="https://wakatime.com/@mayuna">
     <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime Badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marek-mayuna-lof/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
 <a href="https://raw.githubusercontent.com/lilmayu/lilmayu/main/discord.md">
@@ -47,9 +47,9 @@ Backend Developer working with **Java** ☕ and **C# .NET** 🪒 from **Czech Re
 
 ## 🚧 Projects
 - [Modular Discord Bot ☕](https://github.com/lilmayu/ModularDiscordBot) - Bukkit-like JDA Discord Bot platform
-- [Colored End Crystals ☕](https://github.com/lilmayu/ColoredEndCrystals) - Minecraft mod adding shiny end crystals
+- [Colored End Crystals ☕](https://www.curseforge.com/minecraft/mc-mods/colored-end-crystals) - Minecraft mod adding shiny end crystals
 - [Sakuay Bridge: Time Stop ☕🚧](https://github.com/lilmayu/sakuya-bridge-time-stop) - WIP project involving [Touhou](https://cs.wikipedia.org/wiki/Touhou_Project), networking and Swing
-- [EmoteLog ☕🚧](https://github.com/mrwake-dev/emotelog) - WIP project involing Disocrd, emotes and high performance scalable systems
+- [EmoteLog ☕🚧](https://github.com/mrwake-dev/emotelog) - WIP project involing Discord, emotes and high performance scalable systems
 
 ### 📚 Libraries
 - [Console Parallax ☕](https://github.com/lilmayu/console-parallax) - Easy CLI
