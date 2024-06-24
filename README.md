@@ -23,6 +23,7 @@ Backend Developer working with **Java** ☕ and **C# .NET** 🪒 from **Czech Re
 - Developing in **Java** ☕ for **5+ years**
 - Working professionally with **C# .NET** 🪒 for **2+ years**
 - Released and maintaning pletora of Java libraries for various projects
+- Fluent in networking, especially with **Cisco** and **MikroTik** devices & technologies
 - Experienced with **Microsoft Azure**, **Hetzner**, **SQL**, **GIT**, **JetBrains**, and more...
 
 ----
