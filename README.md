@@ -51,8 +51,8 @@ Backend Developer working with **Java** ☕ and **C# .NET** 🪒 from **Czech Re
 ----
 
 ## 🚧 Projects
-- [Modular Discord Bot ☕](https://github.com/lilmayu/ModularDiscordBot) - Bukkit-like JDA Discord Bot platform
 - [Colored End Crystals ☕](https://www.curseforge.com/minecraft/mc-mods/colored-end-crystals) - Minecraft mod adding shiny end crystals
+- [Modular Discord Bot ☕🚧](https://github.com/lilmayu/ModularDiscordBot) - Bukkit-like JDA Discord Bot platform
 - [Sakuya Bridge: Time Stop ☕🚧](https://github.com/lilmayu/sakuya-bridge-time-stop) - WIP project involving [Touhou](https://cs.wikipedia.org/wiki/Touhou_Project), networking and Swing
 - [EmoteLog ☕🚧](https://github.com/mrwake-dev/emotelog) - WIP project involing Discord, emotes and high performance scalable systems
 
