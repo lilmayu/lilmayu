@@ -57,6 +57,7 @@ Backend Developer working with **Java** ☕ and **C# .NET** 🪒 from **Czech Re
 - [EmoteLog ☕🚧](https://github.com/mrwake-dev/emotelog) - WIP project involing Discord, emotes and high performance scalable systems
 
 ### 📚 Libraries
+- [Sigewine ☕](https://github.com/iwakura-enterprises/sigewine) - Lightweight runtime dependency injection
 - [Console Parallax ☕](https://github.com/lilmayu/console-parallax) - Easy CLI
 - [Pumpk1n ☕](https://github.com/lilmayu/Pumpk1n) - Quick data management
 - [Mayu's JDA Utilities ☕](https://github.com/lilmayu/MayusJDAUtilities) - Advanced JDA Utilities
